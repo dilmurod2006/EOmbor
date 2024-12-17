@@ -1,5 +1,6 @@
 print("Assalomu Aleykum!")
 
+
 def kopaytiruv(a,b):
     return   a*b
 
@@ -8,3 +9,7 @@ def kopaytiruv(a,b):
 
 
     
+def math(a,b):
+    c = a - b
+    return c
+print(math(5,2))
